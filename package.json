@@ -1,0 +1,23 @@
+{
+  "name": "tv-control",
+  "version": "1.0.0",
+  "description": "scripts to controls tvs",
+  "main": "index.js",
+  "dependencies": {
+    "lgtv": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deskpro/tv-control.git"
+  },
+  "author": "Deskpro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deskpro/tv-control/issues"
+  },
+  "homepage": "https://github.com/deskpro/tv-control#readme"
+}

@@ -1,0 +1,12 @@
+*.iml
+.idea/
+*.ipr
+*.iws
+
+coverage/
+node_modules
+npm-debug.log
+.vscode
+/dist/
+/lib/
+/build/
