@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TV1",
+    "ip": "192.168.1.21",
+    "url": "http://deskpro.com"
+  },
+  {
+    "name": "TV2",
+    "ip": "192.168.1.20",
+    "url": "http://deskpro.com"
+  },
+  {
+    "name": "TV3",
+    "ip": "192.168.1.22",
+    "url": "http://deskpro.com"
+  },
+  {
+    "name": "TV4",
+    "ip": "192.168.1.23",
+    "url": "http://deskpro.com"
+  }
+]
